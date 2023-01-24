@@ -3,7 +3,8 @@
 ## Only for windows users ##
 
 #### How to install? ####
-- Extract Timpa.zip to path c:\
+- Rename timpa-main.zip to timpa.zip.
+- Extract timpa.zip to path c:\
 - Run Setup as administrator.
 - Open CMD and check the version using timpa-v command.
 
