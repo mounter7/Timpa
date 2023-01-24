@@ -17,6 +17,12 @@ timpa new-app
 @REM The project which named new-app will be created.
 ```
 
+* Open the project (Make sure that you have installed Visual Studio Code)
+``` code project-name ```
+``` batch
+code new-app
+```
+
 * Create a new page
 ``` cd project-name ```
 ``` timpa-new-page page-name ```
