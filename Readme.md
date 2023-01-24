@@ -7,25 +7,25 @@
 - Open CMD and check the version using timpa-v command.
 
 * Create a new project
-''' java
+``` batch
 timpa project-name
 example: timpa new-app      
 @REM The project which named new-app will be created.
-'''
+```
 
 * Create a new page
-''' java
+``` batch
 cd project-name
 timpa-new-page page-name
 example: cd new-app
          timpa-new-page about       
 @REM The HTML page named about will be created.
-'''
+```
 
 * Check version
-'''
+```
 timpa-v
-'''
+```
 
 
 #### Created by Ravindu Madhushankha ####
