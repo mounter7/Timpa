@@ -1,7 +1,7 @@
 # Timpa #
 ### This is a CLI Tool which is used to make web projects for wed designing.  ###
 
-* How to install?
+#### How to install? ####
 - Extract Timpa.zip to path c:\
 - Run Setup as administrator.
 - Open CMD and check the version using timpa-v command.
