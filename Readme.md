@@ -1,5 +1,5 @@
 # Timpa #
-### This is a CLI Tool which is used to make web projects for wed designing.  ###
+### This is a CLI Tool which is used to make web projects for wed designing. (Including Bootstrap and Jquery)  ###
 ## Only for windows users ##
 
 #### How to install? ####
