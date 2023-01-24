@@ -11,18 +11,20 @@
 - Note: Turn off your virus gard, if you unable to install timpa.
 
 * Create a new project
+``` timpa project-name ```
 ``` batch
-timpa project-name
-example: timpa new-app      
+timpa new-app      
 @REM The project which named new-app will be created.
 ```
 
 * Create a new page
-``` batch
+```
 cd project-name
 timpa-new-page page-name
-example: cd new-app
-         timpa-new-page about       
+```
+``` batch
+cd new-app
+timpa-new-page about       
 @REM The HTML page named about will be created.
 ```
 
