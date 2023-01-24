@@ -3,10 +3,12 @@
 ## Only for windows users ##
 
 #### How to install? ####
-- Rename timpa-main.zip to timpa.zip.
-- Extract timpa.zip to path c:\
+- Goto https://github.com/mounter7/Timpa and download ZIP.
+- Extract timpa-main.zip to path c:\
+- Rename timpa-main directory to timpa.
 - Run Setup as administrator.
 - Open CMD and check the version using timpa-v command.
+- Note: Turn off your virus gard, if you unable to install timpa.
 
 * Create a new project
 ``` batch
