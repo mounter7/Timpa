@@ -1,5 +1,6 @@
 # Timpa #
 ### This is a CLI Tool which is used to make web projects for wed designing.  ###
+## Only for windows users ##
 
 #### How to install? ####
 - Extract Timpa.zip to path c:\
