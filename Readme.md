@@ -3,7 +3,7 @@
 ## Only for windows users ##
 
 #### How to install? ####
-- Goto https://github.com/mounter7/Timpa and download ZIP.
+- Goto https://github.com/mounter7/Timpa/archive/refs/heads/main.zip and download ZIP.
 - Extract timpa-main.zip to path c:\
 - Rename timpa-main directory to timpa.
 - Run Setup as administrator.
