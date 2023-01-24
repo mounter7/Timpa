@@ -18,10 +18,8 @@ timpa new-app
 ```
 
 * Create a new page
-```
-cd project-name
-timpa-new-page page-name
-```
+``` cd project-name ```
+``` timpa-new-page page-name ```
 ``` batch
 cd new-app
 timpa-new-page about       
